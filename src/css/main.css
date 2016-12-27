@@ -4,10 +4,12 @@
 }
 
 .container {
-  width: 200px;
-  height: 200px;
+  width: 100%;
+  height: auto;
   display: block;
   position: absolute;
-  background-image: image("./src/img/70222.jpeg");
+  background-image: url("./img/70222.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
   /*background-color: red;*/
 }
