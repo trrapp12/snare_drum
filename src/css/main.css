@@ -5,11 +5,11 @@
 
 .container {
   width: 100%;
-  height: auto;
+  height: 2000px;
   display: block;
   position: absolute;
   background-image: url("./img/70222.jpeg");
   background-position: center;
   background-repeat: no-repeat;
-  /*background-color: red;*/
+  background-color: rgba (204, 204, 204, 0.8);
 }
